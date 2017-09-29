@@ -4,7 +4,10 @@
   "description": "node library and cli for fedora repository",
   "main": "index.js",
   "dependencies": {
-    "request": "^2.83.0"
+    "content-disposition": "^0.5.2",
+    "inquirer": "^3.3.0",
+    "request": "^2.83.0",
+    "vorpal": "^1.12.0"
   },
   "devDependencies": {},
   "scripts": {
