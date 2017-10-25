@@ -1,2 +1,2 @@
-# node-fedora-cli
-CLI interface to Fedora with helpers for unnamed-dams JWT auth and convenience layer
+# fin-cli
+CLI interface to the UCD Library DAMS aka [fin-server](https://github.com/UCDavisLibrary/fin-server)
