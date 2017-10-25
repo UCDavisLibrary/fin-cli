@@ -6,6 +6,7 @@
   "dependencies": {
     "content-disposition": "^0.5.2",
     "cork-app-utils": "^1.0.5",
+    "fs-extra": "^4.0.2",
     "inquirer": "^3.3.0",
     "n3": "^0.11.2",
     "open": "0.0.5",
