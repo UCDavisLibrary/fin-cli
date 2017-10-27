@@ -6,7 +6,7 @@
   "dependencies": {
     "content-disposition": "^0.5.2",
     "cork-app-utils": "^1.0.5",
-    "fin-node-api": "0.0.4",
+    "fin-node-api": "0.0.5",
     "fs-extra": "^4.0.2",
     "inquirer": "^3.3.0",
     "n3": "^0.11.2",
@@ -17,6 +17,9 @@
     "xml2js": "^0.4.19",
     "xmldom": "^0.1.27",
     "yargs": "^9.0.1"
+  },
+  "bin": {
+    "fin": "bin/cli.js"
   },
   "devDependencies": {},
   "scripts": {
