@@ -1,10 +1,6 @@
 {
   "name": "@ucd-lib/fin-cli",
-<<<<<<< HEAD
   "version": "0.0.6",
-=======
-  "version": "0.0.5",
->>>>>>> a5093c0eb3dfe2f7f4cb3b8073ab35e9b2f2d09d
   "description": "CLI interface to the fin-server",
   "main": "index.js",
   "dependencies": {
