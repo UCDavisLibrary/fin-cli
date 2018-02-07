@@ -1,9 +1,11 @@
 # fin-cli
-CLI interface to the UCD Library DAMS aka [fin-server](https://github.com/UCDavisLibrary/fin-server)
+CLI interface to the [fin-server](https://github.com/UCDavisLibrary/fin-server)
+
+![Screenshoot](screenshot.png)
 
 ## Install CLI
 
-Requires NodeJS.  Then run:
+Requires [NodeJS](https://nodejs.org/en/download/).  Then run:
 
 ```bash
 npm install -g @ucd-lib/fin-cli
@@ -20,6 +22,7 @@ You should enter the FIN shell.  the first time you do this
 you will be asked to provide your fin server url.
 
 You can all also run fin cli commands directly from your main shell.  ex:
+
 ```bash
 fin http get -P hbHB /
 ```
