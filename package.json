@@ -1,10 +1,10 @@
 {
   "name": "@ucd-lib/fin-cli",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "description": "CLI interface to the fin-server",
   "main": "lib/index.js",
   "dependencies": {
-    "@ucd-lib/fin-node-api": "^0.10.7",
+    "@ucd-lib/fin-node-api": "^0.10.8",
     "content-disposition": "^0.5.2",
     "cork-app-utils": "^1.0.5",
     "fs-extra": "^4.0.3",
