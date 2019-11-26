@@ -27,7 +27,7 @@ You can all also run fin cli commands directly from your main shell.  ex:
 fin http get -P hbHB /
 ```
 
-To access help commands use `--help`.  For example, to view options for an http get request type:
+To access help commands use `--help`.  For example, to view options for an `http get` request type:
 
 ```bash
 fin http get --help
